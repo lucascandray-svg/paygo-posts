@@ -1,0 +1,12 @@
+{
+ "etiqueta": "Negocios",
+ "laminas": [
+  {
+   "tipo": "portada",
+   "pos": 1,
+   "total": 5,
+   "titulo": "Los 5\nindicadores que\ntodo negocio\ndebe medir",
+   "fantasma": "5"
+  }
+ ]
+}

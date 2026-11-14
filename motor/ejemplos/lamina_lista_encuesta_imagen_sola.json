@@ -1,0 +1,15 @@
+{
+ "etiqueta": "Tú decides",
+ "laminas": [
+  {
+   "tipo": "lista",
+   "titulo": "Lo que más me frena\npara invertir es…",
+   "items": [
+    "A. Miedo a perder dinero",
+    "B. No saber por dónde empezar",
+    "C. Miedo a que me estafen",
+    "D. No tengo tiempo"
+   ]
+  }
+ ]
+}

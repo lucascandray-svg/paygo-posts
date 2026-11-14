@@ -1,0 +1,16 @@
+{
+ "etiqueta": "Educación financiera",
+ "laminas": [
+  {
+   "tipo": "lista",
+   "pos": 5,
+   "total": 6,
+   "titulo": "En resumen.",
+   "items": [
+    "Acciones: dueño de un pedacito de empresa",
+    "Cripto: activos digitales, muy volátiles",
+    "Fondos: una canasta de muchos activos"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "etiqueta": "Seguridad",
+ "laminas": [
+  {
+   "tipo": "lista",
+   "pos": 2,
+   "total": 4,
+   "titulo": "Las más comunes.",
+   "items": [
+    "Ofertas falsas por WhatsApp o redes",
+    "“Tu banco” pidiendo códigos",
+    "Premios o rifas que piden pago primero"
+   ]
+  }
+ ]
+}

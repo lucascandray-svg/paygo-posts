@@ -1,0 +1,12 @@
+{
+  "etiqueta": "Seguridad cripto",
+  "laminas": [
+    {"tipo": "portada", "titulo": "5 formas\nde proteger\ntu cuenta\nde Binance", "fantasma": "5"},
+    {"tipo": "contenido", "numero": "1", "titulo": "Activa la verificación\nen dos pasos.", "texto": "Usa una app autenticadora en lugar\nde solo mensajes de texto. Es tu\nsegunda llave."},
+    {"tipo": "contenido", "numero": "2", "titulo": "Configura el\ncódigo antiphishing.", "texto": "Es una palabra que tú eliges y aparece\nen los correos reales de la plataforma. Si\nno está, es falso."},
+    {"tipo": "contenido", "numero": "3", "titulo": "Usa la lista\nblanca de retiros.", "texto": "Solo permite sacar fondos hacia\ndirecciones que tú aprobaste. Si alguien\nentra a tu cuenta, no puede enviar a una\ndirección nueva."},
+    {"tipo": "contenido", "numero": "4", "titulo": "Nunca compartas\ncódigos ni claves.", "texto": "Ni el soporte, ni un “asesor”, ni un amigo\nte los piden. Quien los pide quiere\ntu dinero."},
+    {"tipo": "contenido", "numero": "5", "titulo": "Entra solo desde la\napp o el sitio oficial.", "texto": "Desconfía de enlaces por WhatsApp,\ncorreo o redes. Usa la app descargada\nde la tienda oficial."},
+    {"tipo": "cierre", "titulo": "Tu cuenta es\ntan segura como\ntus hábitos.", "texto": "Guarda este post y revisa hoy tu\nconfiguración.", "boton": "Revisa tu cuenta hoy"}
+  ]
+}
